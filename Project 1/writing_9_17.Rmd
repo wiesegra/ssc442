@@ -1,0 +1,24 @@
+---
+title: "Weekly Writing - Week 4"
+author: "Grant Wiese"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: 
+  pdf_document:
+      pandoc_args: ["--extract-media", "."]
+---
+
+```{r setup, include=TRUE, echo = FALSE}
+knitr::opts_chunk$set(echo = TRUE,
+                      fig.align = 'center')
+```
+
+## 1. Group Summary
+
+Our name is TEAMNAME!!!
+
+Our members are...
+
+Erin Sawyer
+Lian Martin
+Jackie Groseclose
+Grant Wiese
